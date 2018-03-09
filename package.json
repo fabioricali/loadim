@@ -1,6 +1,6 @@
 {
   "name": "loadim",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Very simple module that detects when an image is loaded and returns it via callback.",
   "main": "index.js",
   "scripts": {
