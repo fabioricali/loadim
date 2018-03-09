@@ -1,7 +1,7 @@
 {
   "name": "loadim",
   "version": "0.0.0",
-  "description": "Detect when an image is loaded",
+  "description": "Very simple module that detects when an image is loaded and returns it via callback.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
